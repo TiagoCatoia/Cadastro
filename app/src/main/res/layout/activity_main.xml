@@ -53,6 +53,7 @@
                 android:layout_height="wrap_content"
                 android:paddingStart="5dp"
                 android:paddingEnd="5dp"
+                android:hint="@string/ex_telefone"
                 android:background="@drawable/border" />
             <TextView
                 android:layout_width="match_parent"

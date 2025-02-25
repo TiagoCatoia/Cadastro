@@ -12,4 +12,5 @@
     <string name="feminino">Feminino</string>
     <string name="limpar">Limpar</string>
     <string name="salvar">Salvar</string>
+    <string name="ex_telefone">Ex.: 12-93456-7890</string>
 </resources>
