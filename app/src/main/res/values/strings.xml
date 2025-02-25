@@ -8,4 +8,8 @@
     <string name="sexo">Sexo</string>
     <string name="cidade">Cidade</string>
     <string name="uf">UF</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
 </resources>
